@@ -5,13 +5,13 @@ After [solving AOC1 during a github issue discussion](https://github.com/haeslei
 Hence, I created a repository for only this. You find the discussions I had with the LLM and the resulting AOC solutions in the list of issues of in this repository.
 As the submission times of question and answers are saved, we can later measure how long it took to solve the individal AOC puzzles.
 
-* [AOC1](https://github.com/haesleinhuepf/git-bob-playground/issues/137)
+* [AOC1](https://github.com/haesleinhuepf/git-bob-playground/issues/137): A long discussion with the LLM to figure out how to provide the input data.
 * [AOC2](https://github.com/haesleinhuepf/git-bob-advent-of-code/issues/2)
 * [AOC3](https://github.com/haesleinhuepf/git-bob-advent-of-code/issues/3)
 * [AOC4](https://github.com/haesleinhuepf/git-bob-advent-of-code/issues/4)
 * [AOC5](https://github.com/haesleinhuepf/git-bob-advent-of-code/issues/5)
 * [AOC6](https://github.com/haesleinhuepf/git-bob-advent-of-code/issues/6)
-* [AOC7](https://github.com/haesleinhuepf/git-bob-advent-of-code/issues/7)
+* [AOC7](https://github.com/haesleinhuepf/git-bob-advent-of-code/issues/7), [2nd attempt](https://github.com/haesleinhuepf/git-bob-advent-of-code/issues/7), [3rd attempt](https://github.com/haesleinhuepf/git-bob-advent-of-code/issues/7): Multiple attempts were necessary because the human instructor did not manage to upload the input data properly.
 
 ## How this was done
 
