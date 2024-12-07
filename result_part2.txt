@@ -1,1 +1,1 @@
-Number of safe reports with Problem Dampener: 674
+Number of safe reports with Problem Dampener: 1000
