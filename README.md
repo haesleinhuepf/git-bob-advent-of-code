@@ -14,6 +14,10 @@ As the submission times of question and answers are saved, we can later measure 
 * [AOC7](https://github.com/haesleinhuepf/git-bob-advent-of-code/issues/7), [2nd attempt](https://github.com/haesleinhuepf/git-bob-advent-of-code/issues/8), [3rd attempt](https://github.com/haesleinhuepf/git-bob-advent-of-code/issues/9): Multiple attempts were necessary because the human instructor did not manage to upload the input data properly.
 * [AOC8](https://github.com/haesleinhuepf/git-bob-advent-of-code/issues/10)
 * [AOC9](https://github.com/haesleinhuepf/git-bob-advent-of-code/issues/11)
+* [AOC10](https://github.com/haesleinhuepf/git-bob-advent-of-code/issues/12)
+* [AOC11](https://github.com/haesleinhuepf/git-bob-advent-of-code/issues/13): part 2 failed
+* [AOC12](https://github.com/haesleinhuepf/git-bob-advent-of-code/issues/14): part 2 failed
+* [AOC13](https://github.com/haesleinhuepf/git-bob-advent-of-code/issues/15): part 2 failed
 
 ## How this was done
 
