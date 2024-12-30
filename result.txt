@@ -1,0 +1,1 @@
+Safety factor after 100 seconds: 211692000
