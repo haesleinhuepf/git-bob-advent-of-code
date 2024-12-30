@@ -1,0 +1,1 @@
+Pattern starts repeating after 0 seconds with period 10403
